@@ -1,10 +1,11 @@
 ### Hi there 👋, I am Moo-sung Park
 #### I am iOS interactive developer.
 
-I want to create an ever-changing user experience with technology.  I enjoy and love doing development with user experience in mind.
+I want to create an enjoyable user experience with technology.
+I enjoy and love doing development with user experience in mind.
+
 
 - Skills: Swift / Objective-C / Python / Node.js / R
-
 - 🔭 I’m currently working on PM5 Corp. 
 - 🌱 I’m currently learning Recommander system with Machine Learning (Python) 
 - 📫 How to reach me: parkmoosung@icloud.com 
