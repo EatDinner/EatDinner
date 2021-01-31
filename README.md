@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Moo-sung Park
-#### I am iOS interactive developer.
+#### I am interactive iOS developer.
 
+I’m a UX focused developer with a passion for clean code, user friendly graphical interfaces, and developing easy to use UI-infrastructure.
 I want to create an enjoyable user experience with technology.
-I enjoy and love doing development with user experience in mind.
 
 
 - Skills: Swift / Objective-C / Python / Node.js / R
