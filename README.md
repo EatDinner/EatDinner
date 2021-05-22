@@ -6,7 +6,7 @@ I want to create an enjoyable user experience with technology.
 
 
 - Skills: Swift / Objective-C / Python / Node.js / R
-- 🔭 I’m currently working on PM5 Corp. 
+- 🔭 I’m currently working on DotSlashDash, Inc. 
 - 🌱 I’m currently learning Recommander system with Machine Learning (Python) 
 - 📫 How to reach me: parkmoosung@icloud.com 
 
